@@ -1,0 +1,31 @@
+Advance Project -7
+
+Based on the Output Variable prepare a predictive Model.
+y -> Whether the client has subscribed a term deposit or not 
+Binomial ("yes" or "no")
+
+1. Steps should be followed properly.
+2. Proper EDA should be done
+3. Model Training and Validation
+4. Inference.
+5. Submit the Html of the notebook.
+
+1. Follow the Machine Learning Life Cycle Steps.
+2. Write proper Insights/Inference on each analysis
+3. Do proper EDA on the columns and the data with graphs using seaborn and interpret the graphs. EDA should be in seperate notebook
+4. Save the graphs in one folder and zip the folder.
+5. Zip the datasets folders for Bank Full.
+6. Write proper print statements while writing the code. Proper rounding of the numbers is also required.
+7. Prepare a presentation for both the projects seperately. The presentation should contain - 
+	1. Objective
+	2. Solution 
+	3. Business Impact
+8. Save the Code and download it as .ipynb format - with its name "Bank_prj_7"
+9. Prepare a Word Doc for the entire end to end process with solution architecture and methodology. Also mention the time taken
+for the use case to develop. Challenges faced and the complexity. Create a template which you can use further on other projects also.
+10. Create a single Github repo for both the use case with proper name as "Prediction with Binomial LOgistic Regression" and upload the zip datasets, zip graphs, .ipynb file, ppt, word doc.
+11. In the same readme file mention the details about both the use cases and mention the tools and the insights gathered.
+12. Add some relevant key words for the repo.
+
+13. The entire code should be properly modularized, that means a main file has to be created for calling.
+####################################################################
